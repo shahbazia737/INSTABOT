@@ -1,4 +1,4 @@
-# INSTABOT
+# Instabot.py
 - Python v3.6 or greater
 - Pip v18 or greater
 
@@ -130,3 +130,11 @@ The following video tutorials demo setting up and running the bot:
 * [Windows](https://www.youtube.com/watch?v=V8P0UCrACA0)
 * [Mac/Linux](https://www.youtube.com/watch?v=ASO-cZO6uqo)
 -->
+
+
+
+## Community
+
+- [Telegram Group](https://t.me/joinchat/DYKH-0G_8hsDDoN_iE8ZlA)
+- [Facebook Group](https://www.facebook.com/groups/instabot/)
+- [IRC Channel on Freenode.net #instabot](http://webchat.freenode.net?channels=%23instabot)
